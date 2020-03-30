@@ -1,0 +1,9 @@
+name: event_noon
+main: baaam\event_noon
+api: [ 3.0.1, 4.0.0, 3.0.0 ]
+version: 1.0.0
+author: baaam
+
+commands:
+  눈치게임:
+    description: 눈치게임 전용 커맨드 입니다.
